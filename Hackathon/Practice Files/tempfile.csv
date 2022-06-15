@@ -1,0 +1,7 @@
+Name,Class/Method,Corresponding Class,Method Type,Documentation,Public/Private,Static,Parameters
+sample2,Class,---,---,This class simulates a calculator 3,---,---,---
+add,Method,sample2,INT, this function adds two numbers together 3,false,false,
+subtract,Method,sample2,INT, this function subtracts two numbers together 3,false,false,
+multiply,Method,sample2,INT, this function multiplies two numbers together 3,false,false,
+divide,Method,sample2,INT, this function divides first number by the second number 3,false,false,
+changeNumber,Method,sample2,VOID,---,false,false,c (INT) d (INT) 
